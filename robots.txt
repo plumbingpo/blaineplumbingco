@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blaineplumbingco.com/sitemap.xml
